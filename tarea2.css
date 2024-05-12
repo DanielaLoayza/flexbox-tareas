@@ -1,0 +1,40 @@
+.contenedor{
+	width: 600px;
+	height: 600px;
+	border-color: black;
+	background-color: beige;
+	display: flex;
+	flex-direction: row-reverse;
+	align-items: center;
+	
+
+}
+
+.item1{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	color:white;
+	font-size: 30px;
+	text-align: center ;
+	vertical-align: middle;
+	}
+
+
+.item2{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	color:white;
+	font-size: 30px;
+	text-align: center ;
+	}
+
+.item3{
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	color:white;
+	font-size: 30px;
+	text-align: center ;
+	}
